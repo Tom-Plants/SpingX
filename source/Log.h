@@ -1,0 +1,1 @@
+#define Log(message) MessageBox(NULL, message, "log", MB_OK)
